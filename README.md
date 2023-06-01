@@ -5,20 +5,20 @@ Hello there! Welcome to my GitHub profile. Here, you'll find a collection of my 
 
 ## 😄 About Me
 
-I am a passionate software developer with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
+I am a passionate data scientist with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
 
-- Programming languages: Python
-- Frameworks and libraries: Pandas, Matplotlib, Seaborn, SKLearn, spaCy
-- Tools and technologies: Tableau
+- **Programming languages:** Python
+- **Frameworks and libraries:** Pandas, Matplotlib, Seaborn, SKLearn, spaCy
+- **Tools and technologies:** Tableau, Machine Learning
 
 ## 🌱 I'm currently learning
 
 I'm constantly expanding my knowledge and exploring new domains. Currently, I'm focusing on the following:
 
-- Programming languages: SQL, R
-- Frameworks and libraries: TensorFlow, Keras, PyTorch
-- Tools and technologies: Microsoft Azure
-- Fun project: Short point-and-click game
+- **Programming languages:** SQL, R
+- **Frameworks and libraries:** TensorFlow, Keras, PyTorch
+- **Tools and technologies:** Microsoft Azure
+- ✨**Fun project:** Short point-and-click game *will update here as it happens!*
 
 ## 🔭 Projects
 
@@ -38,7 +38,7 @@ Feel free to reach out to me if you have any questions, collaboration opportunit
 Thank you for visiting my profile!
 
 <!--
-**AdiPun/AdiPun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AdiPun/AdiPun** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
