@@ -17,7 +17,7 @@ I'm constantly expanding my knowledge and exploring new domains. Currently, I'm 
 
 - **Programming languages:** SQL, R
 - **Frameworks and libraries:** TensorFlow, Keras, PyTorch, JAX
-- **Tools and technologies:** Microsoft Azure
+- **Tools and technologies:** Microsoft Azure, Ivy
 - ✨**Fun project:** Short point-and-click game *will update here as it happens!*
 
 ## 🔭 Projects
