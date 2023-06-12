@@ -3,9 +3,9 @@
 
 Hello there! Welcome to my GitHub profile. Here, you'll find a collection of my projects and contributions in various programming languages and domains.
 
-## 😄 About Me
+## 😄 About Me 
 
-I am a passionate data scientist with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
+(He/They) I am a passionate data scientist with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
 
 - **Programming languages:** Python
 - **Frameworks and libraries:** Pandas, Matplotlib, Seaborn, SKLearn, spaCy, numPy
@@ -16,7 +16,7 @@ I am a passionate data scientist with a strong interest in building innovative a
 I'm constantly expanding my knowledge and exploring new domains. Currently, I'm focusing on the following:
 
 - **Programming languages:** SQL, R
-- **Frameworks and libraries:** TensorFlow, Keras, PyTorch, JAX
+- **Frameworks and libraries:** TensorFlow, Keras, [PyTorch](https://github.com/mrdbourke/pytorch-deep-learning), JAX
 - **Tools and technologies:** Microsoft Azure, Ivy
 - ✨**Fun project:** Short point-and-click game *will update here as it happens!*
 
@@ -33,6 +33,7 @@ The objective of this project is to develop a Netflix recommendation system usin
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat. You can contact me through:
 
 - Email: [adittyapun11@gmail.com](adittyapun11@gmail.com)
+- HyperionDev: [Porfolio](https://www.hyperiondev.com/portfolio/141251/)
 - LinkedIn: [AdiPun](https://www.linkedin.com/in/adipun/)
 
 Thank you for visiting my profile!
