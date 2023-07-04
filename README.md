@@ -5,20 +5,20 @@ Hello there! Welcome to my GitHub profile. Here, you'll find a collection of my 
 
 ## 😄 About Me 
 
-(He/They) I am a passionate data scientist with a strong interest in building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
+I am a passionate data scientist interested in creativity while building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
 
 - **Programming languages:** Python
 - **Frameworks and libraries:** Pandas, Matplotlib, Seaborn, SKLearn, spaCy, numPy
-- **Tools and technologies:** Tableau, Machine Learning
+- **Tools and technologies:** Tableau, Machine Learning, NLP
 
-## 🌱 I'm currently learning
+## 🌱 My Goals
 
-I'm constantly expanding my knowledge and exploring new domains. Currently, I'm focusing on the following:
+I'm constantly expanding my knowledge and exploring new domains. I'll update my goals as they happen here:
 
-- **Programming languages:** SQL, R
+- **Programming languages:** C++, SQL, R
 - **Frameworks and libraries:** TensorFlow, Keras, [PyTorch](https://github.com/mrdbourke/pytorch-deep-learning), JAX
-- **Tools and technologies:** Microsoft Azure, Ivy
-- ✨**Fun project:** Short point-and-click game *will update here as it happens!*
+- **Tools and technologies:** Microsoft Azure, [Ivy](https://github.com/unifyai/ivy)
+- ✨**Fun projects:** Make a short point-and-click game 
 
 ## 🔭 Projects
 
@@ -28,9 +28,16 @@ The objective of this project is to develop a Netflix recommendation system usin
 
 - Repository: [Natural Language Processing: Netflix Watch Next Recommendation System](https://github.com/AdiPun/NLP-Netflix-Watch-Next-Recommendation-System)
 
+### HyperionDev bootcamp tasks
+
+These are all the tasks that I completed with HyperionDev's Data Science Bootcamp.
+These serve as a portfolio and as a reminder to myself of where I started :)
+
+- Repository: [My coding tasks to complete HyperionDev's Data Science bootcamp](https://github.com/AdiPun/HyperionDevTasks)
+  
 ## 📫 Contact Me
 
-Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat. You can contact me through:
+Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to chat with me. You can contact me through:
 
 - Email: [adittyapun11@gmail.com](adittyapun11@gmail.com)
 - HyperionDev: [Porfolio](https://www.hyperiondev.com/portfolio/141251/)
