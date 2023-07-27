@@ -7,7 +7,7 @@ Hello there! Welcome to my GitHub profile. Here, you'll find a collection of my 
 
 I am a passionate programmer interested in creativity while building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
 
-- **Programming languages:** Python
+- **Programming languages:** Python, [C++](https://github.com/sumo-digital-academy/playbuffer)
 - **Frameworks and libraries:** Pandas, Matplotlib, Seaborn, SKLearn, spaCy, numPy
 - **Tools and technologies:** Tableau, Machine Learning, NLP
 
@@ -15,7 +15,7 @@ I am a passionate programmer interested in creativity while building innovative 
 
 I'm constantly expanding my knowledge and exploring new domains. I'll update my goals as they happen here:
 
-- **Programming languages:** [C++](https://github.com/sumo-digital-academy/playbuffer), SQL, R
+- **Programming languages:** SQL, R
 - **Frameworks and libraries:** TensorFlow, Keras, [PyTorch](https://github.com/mrdbourke/pytorch-deep-learning), JAX
 - **Tools and technologies:** Microsoft Azure, [Ivy](https://github.com/unifyai/ivy)
 - ✨**Fun projects:** Make a simple shoot-em-up with [Sumodigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), Make a short point-and-click game 
