@@ -1,31 +1,22 @@
 ### Hi there! 👋
 # Welcome to Adi's GitHub Profile
 
-Hello there! Welcome to my GitHub profile. Here, you'll find a collection of my projects and contributions in various programming languages and domains.
+Hello there! Welcome to my GitHub profile. Here, you'll find my portfolio of videogame projects I've worked on.
 
 ## 😄 About Me 
 
-I am a passionate programmer interested in creativity while building innovative and impactful solutions. I love exploring new technologies and solving complex problems. My areas of expertise include:
+I am a passionate programmer interested in creativity while building innovative and impactful solutions. I love video games and am currently pursuing a career in videogame programming. My areas of expertise include:
 
-- **Programming languages:** Python, [C++](https://github.com/AdiPun/Playbuffer-RunRight)
-- **Frameworks and libraries:** Pandas, Matplotlib, Seaborn, SKLearn, spaCy, numPy, Playbuffer
-- **Tools and technologies:** Tableau, Machine Learning, NLP
+- **Programming languages:** [C++](https://github.com/AdiPun/Playbuffer-RunRight), Python
+- **Frameworks and libraries:** Playbuffer
 
-## 🌱 My Goals
+## 🌱 C++ Projects
 
-I'm constantly expanding my knowledge and exploring new domains. I'll update my goals as they happen here:
+### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
+#### [Sky High Spy](https://github.com/AdiPun/Sky-High-Spy)
+#### [RunRight C++ Game](https://github.com/AdiPun/Playbuffer-RunRight)
 
-- **Programming languages:** SQL, R
-- **Frameworks and libraries:** TensorFlow, Keras, [PyTorch](https://github.com/mrdbourke/pytorch-deep-learning), JAX
-- **Tools and technologies:** Microsoft Azure, [Ivy](https://github.com/unifyai/ivy)
-- ✨**Fun projects:** Take part in as many game jams as I can
-
-## 🔭 Projects
-
-### Creating a game using a single-header C++ library for making simple 2D games
-RunRight, is a side-scrolling jump and beat-em-up game developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
-
-- Repository: [RunRight C++ Game](https://github.com/AdiPun/Playbuffer-RunRight)
+## 🐍 Python Projects
 
 ### Natural Language Processing: Creating a 'Netflix Recommendation System' in Python with spaCy
 
