@@ -18,6 +18,16 @@ Note: 2 Secret cheat codes: Pause and press up or down on the arrow keys to acti
 #### [RunRight C++ Game](https://github.com/AdiPun/Playbuffer-RunRight)
 Pixel graphics, synth-wave, beautiful scrolling parallax background.
 
+## 📫 Contact Me
+
+Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to chat with me. You can contact me through:
+
+- Email: [adittyapun11@gmail.com](adittyapun11@gmail.com)
+- HyperionDev: [Porfolio](https://www.hyperiondev.com/portfolio/141251/)
+- LinkedIn: [AdiPun](https://www.linkedin.com/in/adipun/)
+
+Thank you for visiting my profile!
+
 ## 🐍 Python Projects
 
 ### Natural Language Processing: Creating a 'Netflix Recommendation System' in Python with spaCy
@@ -33,15 +43,7 @@ These serve as a portfolio and as a reminder to myself of where I started :)
 
 - Repository: [My coding tasks to complete HyperionDev's Data Science bootcamp](https://github.com/AdiPun/HyperionDevTasks)
   
-## 📫 Contact Me
 
-Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to chat with me. You can contact me through:
-
-- Email: [adittyapun11@gmail.com](adittyapun11@gmail.com)
-- HyperionDev: [Porfolio](https://www.hyperiondev.com/portfolio/141251/)
-- LinkedIn: [AdiPun](https://www.linkedin.com/in/adipun/)
-
-Thank you for visiting my profile!
 
 <!--
 **AdiPun/AdiPun** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
