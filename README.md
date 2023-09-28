@@ -14,8 +14,11 @@ I am a passionate programmer interested in creativity while building innovative 
 
 ### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
 #### [Sky High Spy](https://github.com/AdiPun/Sky-High-Spy)
-Note: 2 Secret cheat codes: Pause and press up or down on the arrow keys to activate each cheat! 
+![SkyHighPinkHat](https://github.com/AdiPun/AdiPun/assets/119054941/70b01360-3fda-4d71-9ec7-ab07dd476880)
+Note: 2 Secret cheat codes: Pause and press up or down on the arrow keys to activate each cheat!
+
 #### [RunRight C++ Game](https://github.com/AdiPun/Playbuffer-RunRight)
+
 Pixel graphics, synth-wave, beautiful scrolling parallax background.
 
 ## 📫 Contact Me
