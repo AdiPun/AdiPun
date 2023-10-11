@@ -1,11 +1,6 @@
-### Hi there! 👋
-# Welcome to Adi's GitHub Profile
-
-Hello there! Welcome to my GitHub profile. Here, you'll find my portfolio of videogame projects I've worked on.
-
 ## 😄 About Me 
 
-I am a passionate programmer interested in creativity while building innovative and impactful solutions. I love video games and am currently pursuing a career in videogame programming. My areas of expertise include:
+I love video games and I'm currently pursuing a career in video game programming! My areas of knowledge include:
 
 - **Programming languages:** [C++](https://github.com/AdiPun/Playbuffer-RunRight), Python
 - **Frameworks and libraries:** Playbuffer
@@ -29,14 +24,11 @@ Note: 2 Secret cheat codes: Pause and press up or down on the arrow keys to acti
 Pixel graphics, synth-wave, beautiful scrolling parallax background.
 
 ## 📫 Contact Me
-
-Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to chat with me. You can contact me through:
-
 - Email: [adittyapun11@gmail.com](adittyapun11@gmail.com)
 - HyperionDev: [Porfolio](https://www.hyperiondev.com/portfolio/141251/)
 - LinkedIn: [AdiPun](https://www.linkedin.com/in/adipun/)
 
-Thank you for visiting my profile!
+Thanks for visiting my profile!
 
 ## 🐍 Python Projects
 
