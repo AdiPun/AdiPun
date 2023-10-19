@@ -21,6 +21,7 @@ Note: 2 Secret cheat codes: Pause and press up or down on the arrow keys to acti
 #### [RunRight C++ Game](https://github.com/AdiPun/Playbuffer-RunRight)
 [![RunRightGamePlay](https://github.com/AdiPun/AdiPun/assets/119054941/c8f400ed-3c24-4bf0-9908-4b8c990735f5)
 ](https://github.com/AdiPun/Playbuffer-RunRight)
+
 Pixel graphics, synth-wave, beautiful scrolling parallax background.
 
 ## 📫 Contact Me
