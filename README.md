@@ -5,7 +5,11 @@ I love video games and I'm currently pursuing a career in video game programming
 - **Programming languages:** [C++](https://github.com/AdiPun/Playbuffer-RunRight), Python
 - **Frameworks and libraries:** Playbuffer
 
-## 🌱 C++ Projects
+## 🌱 Games
+
+### [Snake Party!](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
+### [LudumDare 57 Goblin Quest](https://rickylee.itch.io/goblin-quest)
+### [LudimDare 55 Honse](https://rickylee.itch.io/honse)
 
 ### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
 
