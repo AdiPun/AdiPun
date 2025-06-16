@@ -1,4 +1,5 @@
 ## 😄 About Me 
+I programme video games, with experience in the industry from a Level 7 Apprenticeship in Game Programming.
 
 ## 🌱 Games
 
