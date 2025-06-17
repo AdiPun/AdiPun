@@ -1,6 +1,3 @@
-## 😄 About Me 
-I programme video games, with experience in the industry from a Level 7 Apprenticeship in Game Programming.
-
 ## 🌱 Games
 
 ### [Snake Party!](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
