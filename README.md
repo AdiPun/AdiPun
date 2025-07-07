@@ -9,9 +9,6 @@
 ### [LudumDare 55 honse](https://rickylee.itch.io/honse)
 [![image](https://github.com/user-attachments/assets/d1e571be-a307-40f5-a8d5-e242ef20be6e)](https://rickylee.itch.io/honse)
 
-## 📫 Contact Me
-- LinkedIn: [AdiPun](https://www.linkedin.com/in/adipun/)
-
   ### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
 
 #### [My Grandma the Witch](https://github.com/AdiPun/MyGrandmaTheWitch)
