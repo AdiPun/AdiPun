@@ -1,8 +1,7 @@
 ## Current projects I'm working on
 
 ### [Learning .NET Blazor, C#, js, html and css](https://github.com/AdiPun/dotnet-blazor-example-applications)
-<img width="483" height="214" alt="image" src="https://github.com/user-attachments/assets/8b35e094-bf18-498c-a18b-edcfdcbc99ee" />
-
+<img width="461" height="250" alt="image" src="https://github.com/user-attachments/assets/5eb29508-85b4-4bc1-8e4c-d1bb63853c95" />
 
 ### [Creating a data-oriented RayTracer following Ray Tracing in One Weekend](https://github.com/AdiPun/RayTracer)
 <img width="305" height="324" alt="image" src="https://github.com/user-attachments/assets/b7e2a714-ca0e-4aad-8272-7d581b448420" />
