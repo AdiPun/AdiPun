@@ -1,4 +1,13 @@
-## 🌱 Games
+## Current projects I'm working on
+
+### [Learning .NET Blazor, C#, js, html and css](https://github.com/AdiPun/dotnet-blazor-example-applications)
+<img width="483" height="214" alt="image" src="https://github.com/user-attachments/assets/8b35e094-bf18-498c-a18b-edcfdcbc99ee" />
+
+
+### [Creating a data-oriented RayTracer following Ray Tracing in One Weekend](https://github.com/AdiPun/RayTracer)
+<img width="305" height="324" alt="image" src="https://github.com/user-attachments/assets/b7e2a714-ca0e-4aad-8272-7d581b448420" />
+
+## Games C++, Unreal, Unity, Custom in-house game engine
 
 ### [Snake Party!](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
 [![image](https://github.com/user-attachments/assets/92ae3df9-ac48-4b38-b48a-7af76b753d32)](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
