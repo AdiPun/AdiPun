@@ -1,4 +1,4 @@
-## Current projects I'm working on
+## Current projects
 
 ### [Learning .NET Blazor, C#, js, html and css](https://github.com/AdiPun/dotnet-blazor-example-applications)
 ![Blazor UI formatter](https://github.com/user-attachments/assets/a033d451-49d4-4466-9847-c32e32a82319)
