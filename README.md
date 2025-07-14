@@ -1,6 +1,6 @@
 ## Current projects
 
-### [Learning .NET Blazor, C#, js, html and css](https://github.com/AdiPun/dotnet-blazor-example-applications)
+### [Learning ASP.NET Blazor, C#, js, html and css](https://github.com/AdiPun/dotnet-blazor-example-applications)
 ![Blazor UI formatter](https://github.com/user-attachments/assets/a033d451-49d4-4466-9847-c32e32a82319)
 <img width="433" height="329" alt="image" src="https://github.com/user-attachments/assets/f0b2a4b6-af4d-4d7c-a228-c3f431908baf" />
 <img width="461" height="250" alt="image" src="https://github.com/user-attachments/assets/5eb29508-85b4-4bc1-8e4c-d1bb63853c95" />
@@ -8,7 +8,7 @@
 ### [Creating a data-oriented RayTracer following Ray Tracing in One Weekend](https://github.com/AdiPun/RayTracer)
 <img width="305" height="324" alt="image" src="https://github.com/user-attachments/assets/b7e2a714-ca0e-4aad-8272-7d581b448420" />
 
-## Games C++, Unreal, Unity, Custom in-house game engine
+## Games C++, C#, Unreal, Unity, Custom in-house game engine
 
 ### [Snake Party!](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
 [![image](https://github.com/user-attachments/assets/92ae3df9-ac48-4b38-b48a-7af76b753d32)](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
@@ -19,7 +19,7 @@
 ### [LudumDare 55 honse](https://rickylee.itch.io/honse)
 [![image](https://github.com/user-attachments/assets/d1e571be-a307-40f5-a8d5-e242ef20be6e)](https://rickylee.itch.io/honse)
 
-  ### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
+### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
 
 #### [My Grandma the Witch](https://github.com/AdiPun/MyGrandmaTheWitch)
 [![MyGrandmaTheWitchJumping](https://github.com/AdiPun/AdiPun/assets/119054941/67b0976c-f8cd-40a5-a0bc-563475eff51c)](https://github.com/AdiPun/MyGrandmaTheWitch)
