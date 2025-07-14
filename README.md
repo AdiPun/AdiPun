@@ -1,6 +1,7 @@
 ## Current projects I'm working on
 
 ### [Learning .NET Blazor, C#, js, html and css](https://github.com/AdiPun/dotnet-blazor-example-applications)
+![Blazor UI formatter](https://github.com/user-attachments/assets/a033d451-49d4-4466-9847-c32e32a82319)
 <img width="433" height="329" alt="image" src="https://github.com/user-attachments/assets/f0b2a4b6-af4d-4d7c-a228-c3f431908baf" />
 <img width="461" height="250" alt="image" src="https://github.com/user-attachments/assets/5eb29508-85b4-4bc1-8e4c-d1bb63853c95" />
 
