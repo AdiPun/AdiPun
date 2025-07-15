@@ -1,7 +1,8 @@
 ## Current projects
 
 ### [Creating real-time ASP.NET applications with Blazor and SignalR. C#, HTML, CSS, JavaScript](https://github.com/AdiPun/SignalRChat)
-<img width="2899" height="860" alt="image" src="https://github.com/user-attachments/assets/e7506104-5af8-4ea1-80e6-5a3271ac1d45" />
+<img width="3085" height="1687" alt="image" src="https://github.com/user-attachments/assets/68a78a15-1b35-4790-a9df-730b6ebfec26" />
+
 
 ### [Blazor text formatter. C#, HTML, CSS](https://github.com/AdiPun/dotnet-blazor-example-applications)
 ![Blazor UI formatter](https://github.com/user-attachments/assets/a033d451-49d4-4466-9847-c32e32a82319)
