@@ -2,6 +2,7 @@
 
 ### [Creating real-time ASP.NET applications with Blazor and SignalR. C#, HTML, CSS, JavaScript](https://github.com/AdiPun/SignalRChat)
 <img width="2899" height="860" alt="image" src="https://github.com/user-attachments/assets/e7506104-5af8-4ea1-80e6-5a3271ac1d45" />
+
 ### [Blazor text formatter. C#, HTML, CSS](https://github.com/AdiPun/dotnet-blazor-example-applications)
 ![Blazor UI formatter](https://github.com/user-attachments/assets/a033d451-49d4-4466-9847-c32e32a82319)
 <img width="433" height="329" alt="image" src="https://github.com/user-attachments/assets/f0b2a4b6-af4d-4d7c-a228-c3f431908baf" />
