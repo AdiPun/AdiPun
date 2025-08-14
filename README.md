@@ -1,17 +1,3 @@
-## Current projects
-
-### [Creating real-time ASP.NET applications with Blazor and SignalR. C#, HTML, CSS, JavaScript](https://github.com/AdiPun/SignalRChat)
-<img width="3085" height="1687" alt="image" src="https://github.com/user-attachments/assets/68a78a15-1b35-4790-a9df-730b6ebfec26" />
-
-
-### [Blazor text formatter. C#, HTML, CSS](https://github.com/AdiPun/dotnet-blazor-example-applications)
-![Blazor UI formatter](https://github.com/user-attachments/assets/a033d451-49d4-4466-9847-c32e32a82319)
-<img width="433" height="329" alt="image" src="https://github.com/user-attachments/assets/f0b2a4b6-af4d-4d7c-a228-c3f431908baf" />
-<img width="461" height="250" alt="image" src="https://github.com/user-attachments/assets/5eb29508-85b4-4bc1-8e4c-d1bb63853c95" />
-
-### [Creating a data-oriented RayTracer following Ray Tracing in One Weekend](https://github.com/AdiPun/RayTracer)
-<img width="305" height="324" alt="image" src="https://github.com/user-attachments/assets/b7e2a714-ca0e-4aad-8272-7d581b448420" />
-
 ## Games C++, C#, Unreal, Unity, Custom in-house game engine
 
 ### [Snake Party!](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
@@ -45,6 +31,19 @@ Pixel graphics, synth-wave, beautiful scrolling parallax background.
 - HyperionDev: [Porfolio](https://www.hyperiondev.com/portfolio/141251/)
 - LinkedIn: [AdiPun](https://www.linkedin.com/in/adipun/)
 
+## Current projects
+
+### [Creating real-time ASP.NET applications with Blazor and SignalR. C#, HTML, CSS, JavaScript](https://github.com/AdiPun/SignalRChat)
+<img width="3085" height="1687" alt="image" src="https://github.com/user-attachments/assets/68a78a15-1b35-4790-a9df-730b6ebfec26" />
+
+
+### [Blazor text formatter. C#, HTML, CSS](https://github.com/AdiPun/dotnet-blazor-example-applications)
+![Blazor UI formatter](https://github.com/user-attachments/assets/a033d451-49d4-4466-9847-c32e32a82319)
+<img width="433" height="329" alt="image" src="https://github.com/user-attachments/assets/f0b2a4b6-af4d-4d7c-a228-c3f431908baf" />
+<img width="461" height="250" alt="image" src="https://github.com/user-attachments/assets/5eb29508-85b4-4bc1-8e4c-d1bb63853c95" />
+
+### [Creating a data-oriented RayTracer following Ray Tracing in One Weekend](https://github.com/AdiPun/RayTracer)
+<img width="305" height="324" alt="image" src="https://github.com/user-attachments/assets/b7e2a714-ca0e-4aad-8272-7d581b448420" />
 ## 🐍 Python Projects
 
 ### Natural Language Processing: Creating a 'Netflix Recommendation System' in Python with spaCy
