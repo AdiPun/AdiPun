@@ -15,15 +15,13 @@
 ### [LudumDare: 55 honse](https://rickylee.itch.io/honse)
 [![image](https://github.com/user-attachments/assets/d1e571be-a307-40f5-a8d5-e242ef20be6e)](https://rickylee.itch.io/honse)
 
-## 📫 Contact Me
-- Email: [adittyapun11@gmail.com](adittyapun11@gmail.com)
-- LinkedIn: [AdiPun](https://www.linkedin.com/in/adipun/)
-
 ## Other projects
+
+### [Complete The Lyrics Game (Python)](https://github.com/AdiPun/Complete-The-Next-Lyric-Game)
+<img width="906" height="617" alt="image" src="https://github.com/user-attachments/assets/7a772d73-b401-4f6a-921d-aff3cae4bc80" />
 
 ### [Creating real-time ASP.NET applications with Blazor and SignalR. C#, HTML, CSS, JavaScript](https://github.com/AdiPun/SignalRChat)
 <img width="3085" height="1687" alt="image" src="https://github.com/user-attachments/assets/68a78a15-1b35-4790-a9df-730b6ebfec26" />
-
 
 ### [Blazor text formatter. C#, HTML, CSS](https://github.com/AdiPun/dotnet-blazor-example-applications)
 ![Blazor UI formatter](https://github.com/user-attachments/assets/a033d451-49d4-4466-9847-c32e32a82319)
@@ -49,7 +47,7 @@ Note: 2 Secret cheat codes: Pause and press up or down on the arrow keys to acti
 
 Pixel graphics, synth-wave, beautiful scrolling parallax background.
 
-## 🐍 Python Projects
+## Python Projects
 
 ### Natural Language Processing: Creating a 'Netflix Recommendation System' in Python with spaCy
 The objective of this project is to develop a Netflix recommendation system using natural language processing techniques in Python. The system compares the similarity between a given movie description and a collection of other movie descriptions to generate personalised recommendations.
