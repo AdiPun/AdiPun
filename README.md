@@ -16,12 +16,10 @@
 
 ### [Blazor text formatter. C#, HTML, CSS](https://github.com/AdiPun/dotnet-blazor-example-applications)
 ![Blazor UI formatter](https://github.com/user-attachments/assets/a033d451-49d4-4466-9847-c32e32a82319)
-<img width="433" height="329" alt="image" src="https://github.com/user-attachments/assets/f0b2a4b6-af4d-4d7c-a228-c3f431908baf" />
-<img width="461" height="250" alt="image" src="https://github.com/user-attachments/assets/5eb29508-85b4-4bc1-8e4c-d1bb63853c95" />
+
 
 ### [Creating a data-oriented RayTracer following Ray Tracing in One Weekend](https://github.com/AdiPun/RayTracer)
 <img width="305" height="324" alt="image" src="https://github.com/user-attachments/assets/b7e2a714-ca0e-4aad-8272-7d581b448420" />
-### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
 
 ## Python Projects
 
