@@ -1,11 +1,19 @@
-## Games C++, C#, Unreal, Unity, Custom in-house game engine
+## Game Programmer - C++, C#, Unreal, Unity, Custom in-house game engine
 
 ### [NUTMEG! Steam Wishlist it here!](https://store.steampowered.com/app/3590560/NUTMEG_A_Deckbuilding_Retro_Football_Manager/)
 <img width="1816" height="1023" alt="image" src="https://github.com/user-attachments/assets/5242522a-d66a-4276-a10c-604398ca1109" />
 
-
 ### [Snake Party: For Sheffield Wednesday's half-time events](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
 [![image](https://github.com/user-attachments/assets/92ae3df9-ac48-4b38-b48a-7af76b753d32)](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
+
+## QA Tester
+### [Still Wakes the Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/)
+<img width="1027" height="1418" alt="image" src="https://github.com/user-attachments/assets/6895f25d-3e17-4886-9603-cae0ed1c9c18" />
+
+### [Oil Strike '75](https://store.steampowered.com/app/2740090/Oil_Strike_75/)
+<img width="1366" height="974" alt="image" src="https://github.com/user-attachments/assets/f7227317-6bb6-4118-9870-86e60ac9a134" />
+
+## Game Jams
 
 ### [LudumDare 57: Goblin Quest](https://rickylee.itch.io/goblin-quest)
 <img width="2134" height="1207" alt="image" src="https://github.com/user-attachments/assets/935a2e81-e1d8-4291-b07a-e251f6c22483" />
