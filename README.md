@@ -1,3 +1,5 @@
+# [Click here first to see my portfolio: adipun.github.io](https://adipun.github.io/#projects)
+
 ## Game Programmer - C++, C#, Unreal, Unity, Custom in-house game engine
 
 ### [NUTMEG! Steam Wishlist it here!](https://store.steampowered.com/app/3590560/NUTMEG_A_Deckbuilding_Retro_Football_Manager/)
