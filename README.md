@@ -1,4 +1,4 @@
-# [Click here first to see my portfolio: adipun.github.io](https://adipun.github.io/#projects)
+# [Check out my portfolio at: <ins> adipun.github.io</ins>](https://adipun.github.io/#projects)
 
 ## Game Programmer - C++, C#, Unreal, Unity, Custom in-house game engine
 
